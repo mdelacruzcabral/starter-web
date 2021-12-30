@@ -10,5 +10,6 @@ Adding some intro here.
 Sample website with plenty of files for demos
 
 ## Deployment
+Adding deployment text here. More info.
 
 ## How to contribute
