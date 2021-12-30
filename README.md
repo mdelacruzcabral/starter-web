@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Today is 12/30/2021.
 
 ## Introduction
 
